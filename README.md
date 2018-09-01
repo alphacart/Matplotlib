@@ -1,12 +1,9 @@
-# Matplotlib
-Matplotlib-HW
+Pyber
+In this project offered data-backed guidance on new opportunities for market differentiation.
 
-Pyber- Homework
-In this role, you'll be expected to offer data-backed guidance on new opportunities for market differentiation.
+Complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
-You've since been given access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
-
-Your objective is to build a Bubble Plot that showcases the relationship between four key variables:
+The objective is to build a Bubble Plot that showcases the relationship between four key variables:
 
 
 Average Fare ($) Per City
@@ -15,7 +12,7 @@ Total Number of Drivers Per City
 City Type (Urban, Suburban, Rural)
 
 
-In addition, you will be expected to produce the following three pie charts:
+In addition, produced the following three pie charts:
 
 
 % of Total Fares by City Type
@@ -23,20 +20,11 @@ In addition, you will be expected to produce the following three pie charts:
 % of Total Drivers by City Type
 
 
-As final considerations:
+
+Used Pandas Library and the Jupyter Notebook.
+Used the Matplotlib and Seaborn libraries.
+Included a written description of observable trends based on the data.
+Have labeled plots, including aspects like: Plot Titles, Axes Labels, Legend Labels, Wedge Percentages, and Wedge Labels.
 
 
-You must use the Pandas Library and the Jupyter Notebook.
-You must use the Matplotlib and Seaborn libraries.
-You must include a written description of three observable trends based on the data.
-You must use proper labeling of your plots, including aspects like: Plot Titles, Axes Labels, Legend Labels, Wedge Percentages, and Wedge Labels.
-Remember when making your plots to consider aesthetics!
-
-
-You must stick to the Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing your plot and pie charts.
-When making your Bubble Plot, experiment with effects like alpha, edgecolor, and linewidths.
-When making your Pie Chart, experiment with effects like shadow, startangle, and explosion.
-
-
-You must include an exported markdown version of your Notebook called  README.md in your GitHub repository.
-See Example Solution for a reference on expected format.
+Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing your plot and pie charts.
