@@ -29,3 +29,8 @@ Have labeled plots, including aspects like: Plot Titles, Axes Labels, Legend Lab
 
 
 Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing your plot and pie charts.
+
+![png](https://github.com/alphacart/Matplotlib/blob/master/Pyber/raw_data/output_10_0.png)
+![png](https://github.com/alphacart/Matplotlib/blob/master/Pyber/raw_data/output_4_0.png)
+![png](https://github.com/alphacart/Matplotlib/blob/master/Pyber/raw_data/output_6_0.png)
+![png](https://github.com/alphacart/Matplotlib/blob/master/Pyber/raw_data/output_8_0.png)
